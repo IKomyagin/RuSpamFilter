@@ -50,5 +50,5 @@ trainer = Trainer(
 )
 
 trainer.train()
-trainer.save_model("./my_ruSpam_model")
-tokenizer.save_pretrained("./my_ruSpam_model")
+trainer.save_model("../models/my_ruSpam_model")
+tokenizer.save_pretrained("../models/my_ruSpam_model")

@@ -5,3 +5,4 @@ pandas
 numpy
 transformers
 accelerate>=0.26.0
+gradio
